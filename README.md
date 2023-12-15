@@ -1,4 +1,6 @@
 # First-Repo
 Just for try
 <br>
-My First Commit
+My First Commit<br>
+
+Author - Amit Singh
